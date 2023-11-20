@@ -1,0 +1,1 @@
+alert("ESSE SITE UTILIZA COOKIES");
